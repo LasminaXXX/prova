@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@100&family=Dosis:wght@200&family=Nanum+Gothic&display=swap');
+
+
+
+
+html {
+    background-image: url(background-really.jpg);
+    opacity: 1;
+}
+
+#cab {
+    margin-bottom: 100px;
+}
+
+#cab h1{
+    text-align: center;
+    
+}
+
+body{
+    margin: 20px 300px auto 300px;
+    opacity: 1;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 10px;
+    color: antiquewhite;
+    padding: 100px;
+    padding-top: 10px;
+    font-family: sans-serif;
+    letter-spacing: .2rem;
+    
+}
+
+#auto {
+    text-align: left;
+}
+
+#custo {
+    text-align: right;
+}
+
+#potn {
+    text-align: left;
+}
+
+#conf {
+    text-align: right;
+}
+
+#prod {
+    text-align: left;
+}
+
+#saiba {
+    position: absolute;
+    margin-top: 40px;
+}
